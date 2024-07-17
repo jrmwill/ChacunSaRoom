@@ -413,6 +413,46 @@ PrefabInstance:
       propertyPath: m_Name
       value: Centre_WillemsJerome
       objectReference: {fileID: 0}
+    - target: {fileID: 7377868961705297099, guid: 84d530a55b8d9e14aa5573fe30d846ef,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.299
+      objectReference: {fileID: 0}
+    - target: {fileID: 7377868961705297099, guid: 84d530a55b8d9e14aa5573fe30d846ef,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.1058
+      objectReference: {fileID: 0}
+    - target: {fileID: 7377868961705297099, guid: 84d530a55b8d9e14aa5573fe30d846ef,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 7377868961705297099, guid: 84d530a55b8d9e14aa5573fe30d846ef,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7377868961705297099, guid: 84d530a55b8d9e14aa5573fe30d846ef,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7377868961705297099, guid: 84d530a55b8d9e14aa5573fe30d846ef,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7377868961705297099, guid: 84d530a55b8d9e14aa5573fe30d846ef,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7377868961705297099, guid: 84d530a55b8d9e14aa5573fe30d846ef,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
     - target: {fileID: 7552128364986614165, guid: 84d530a55b8d9e14aa5573fe30d846ef,
         type: 3}
       propertyPath: m_LocalPosition.x
