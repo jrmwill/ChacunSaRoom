@@ -1,0 +1,17 @@
+{
+  "name": "be.jeromewillems.maroom",
+  "version": "0.0.1",
+  "displayName": "Ma Room",
+  "description": "Un package avec l'endroit dans ma room",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+  "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+  "licensesUrl": "https://yourcompany.com/yourpackage/licenses",
+  "author": {
+    "name": "Jerome Willems",
+    "email": "yourname@yourcompany.com",
+    "url": "https://yourcompany.com/"
+  }
+
+}
